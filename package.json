@@ -1,0 +1,19 @@
+{
+  "name": "mercedes-landing-page",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShammasovAmir/mercedes-landing-page.git"
+  },
+  "author": "Amir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShammasovAmir/mercedes-landing-page/issues"
+  },
+  "homepage": "https://github.com/ShammasovAmir/mercedes-landing-page#readme"
+}
